@@ -1,0 +1,2 @@
+# Blog
+Linux Hardware Blog

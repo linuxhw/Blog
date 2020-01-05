@@ -7,6 +7,7 @@ A blog about recent improvements and studies in the Linux Hardware project.
 
 ##### Contents
 
+* Hardware trends, 2 December 2019
 * Search for drivers, 5 March 2019
 * Review of hardware probes, 13 February 2019
 * Hardware database for all Linux distributions, 23 October 2018
